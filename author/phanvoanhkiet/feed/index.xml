@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>phanvoanhkiet &#8211; phanvoanhkiet</title>
+	<atom:link href="http://localhost/myproject/wordpress/author/phanvoanhkiet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phanvoanhkiet.github.io/mywordpress</link>
+	<description>Hello WordPress</description>
+	<lastBuildDate>Wed, 07 Sep 2022 03:53:49 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Elementor #38</title>
+		<link>https://phanvoanhkiet.github.io/mywordpress/elementor-38/</link>
+					<comments>https://phanvoanhkiet.github.io/mywordpress/elementor-38/#respond</comments>
+		
+		<dc:creator><![CDATA[phanvoanhkiet]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 03:08:46 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://phanvoanhkiet.github.io/mywordpress/?p=38</guid>
+
+					<description><![CDATA[Nhà trên thảo nguyên Nhà ở đồng bằng Previous Next Nhà Giá rẻ Trang web luôn cập nhật những mẫu nhà được ưa chuộng nhất 2022 Xem thêm]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="38" class="elementor elementor-38">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-aa4e0b6 elementor-section-height-full elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="aa4e0b6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4c04da5" data-id="4c04da5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a762143 elementor-widget elementor-widget-image" data-id="a762143" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="275" height="183" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-1.jpg" class="attachment-medium size-medium" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-67bbb2e elementor-widget elementor-widget-image" data-id="67bbb2e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="150" height="91" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-2.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d1290af" data-id="d1290af" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2962b39 elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel" data-id="2962b39" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/tai-xuong-4.jpg" alt="Nhà trên thảo nguyên" /><figcaption class="elementor-image-carousel-caption">Nhà trên thảo nguyên</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-1.jpg" alt="Nhà ở đồng bằng" /><figcaption class="elementor-image-carousel-caption">Nhà ở đồng bằng</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-3.jpg" alt="Nhà ở biển" /><figcaption class="elementor-image-carousel-caption">Nhà ở biển</figcaption></figure></div>			</div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2cb8765" data-id="2cb8765" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7b2bc11 elementor-widget elementor-widget-heading" data-id="7b2bc11" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Nhà</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d9c9808 elementor-widget elementor-widget-heading" data-id="d9c9808" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Giá rẻ</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6610380 elementor-widget elementor-widget-text-editor" data-id="6610380" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><em><strong>Trang web luôn cập nhật những mẫu nhà được ưa chuộng nhất 2022</strong></em></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-de19d09 elementor-widget elementor-widget-button" data-id="de19d09" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Xem thêm</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://phanvoanhkiet.github.io/mywordpress/elementor-38/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mẫu nhà được ưa chuộng nhất 2022</title>
+		<link>https://phanvoanhkiet.github.io/mywordpress/mau-nha-duoc-ua-chuong-nhat-2022/</link>
+					<comments>https://phanvoanhkiet.github.io/mywordpress/mau-nha-duoc-ua-chuong-nhat-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[phanvoanhkiet]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2022 03:52:42 +0000</pubDate>
+				<category><![CDATA[Thietkenoithat]]></category>
+		<guid isPermaLink="false">https://phanvoanhkiet.github.io/mywordpress/?p=8</guid>
+
+					<description><![CDATA[&#160; Trong xu hướng thiết kế nhà ở hiện nay, mẫu nhà kính là một trong những phong cách thiết kế được nhiều gia đình lựa chọn để hoàn thiện căn nhà trong mơ của mình, bởi tính thẩm mỹ cao. Dưới đây là mẫu nhà mang phong cách hiện đại, sang trọng, cùng tìm &#8230; <p class="link-more"><a href="https://phanvoanhkiet.github.io/mywordpress/mau-nha-duoc-ua-chuong-nhat-2022/" class="more-link">Đọc tiếp<span class="screen-reader-text"> "Mẫu nhà được ưa chuộng nhất 2022"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><img src="https://duraflex.com.vn/sites/default/files/styles/imgs_602_401/public/2020-12/11.jpg?itok=vmm9DL8d" alt="TOP 3+ Mẫu Nhà Tiền Chế Đẹp Nhất Năm 2022 | DURAflex" /></p>
+<p>&nbsp;</p>
+<h3>Trong xu hướng thiết kế nhà ở hiện nay, mẫu nhà kính là một trong những phong cách thiết kế được nhiều gia đình lựa chọn để hoàn thiện căn nhà trong mơ của mình, bởi tính thẩm mỹ cao. Dưới đây là mẫu nhà mang phong cách hiện đại, sang trọng, cùng tìm hiểu nhé!</h3>
+<h4>Mẫu nhà kính kết hợp với sân vườn, hồ bơi:</h4>
+<p><img class="aligncenter" src="https://xaydungthanhthinh.com/wp-content/uploads/2020/03/33-mau-thiet-khe-nha-kinh-dep-an-tuong-nhat-11.jpg" alt="9+ mẫu thiết kế nhà kính đẹp nhất 2022 với gỗ, sân vườn, hồ bơi" /></p>
+<h5 style="text-align: center;"><span style="color: #00ffff;">Mẫu nhà kính kết hợp với sân vườn, hồ bơi</span></h5>
+<h4>Đây là một trong những phong cách được lựa chọn phổ biến nhất, bởi mang kiểu cách chuyên biệt và một điểm cộng của ngôi nhà này, đó là cách thiết kế rộng rãi, thoáng mát. Bên cạnh đó, về mặt kiến trúc được thiết kế theo phong cách hiện đại, từng đường nét đều được sắp xếp một cách đầy tinh tế và mang tính thẩm mỹ cao khiến ngôi nhà đẹp lộng lẫy và giá trị hơn.</h4>
+<h4>Hơn nữa, ngôi nhà là sự tích hợp nhiều công năng phù hợp cho gia đình 3 thế hệ. Đây là khoảng không gian được đội ngũ thi công, kiến trúc sư chú trọng đến từng chi tiết để tạo ra được sự thông thoáng từ gió, ánh sáng tự nhiên và cây xanh. Bên cạnh đó, sự thiết kế lòng kính hiện đại đã góp phần tạo cho ngôi nhà trở nên sinh động và gần gũi với thiên nhiên hơn.</h4>
+<p><iframe loading="lazy" class="giphy-embed" src="https://giphy.com/embed/l0IylQoMkcbZUbtKw" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="https://giphy.com/gifs/house-home-real-estate-l0IylQoMkcbZUbtKw">via GIPHY</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanvoanhkiet.github.io/mywordpress/mau-nha-duoc-ua-chuong-nhat-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://phanvoanhkiet.github.io/mywordpress/chao-moi-nguoi/</link>
+					<comments>https://phanvoanhkiet.github.io/mywordpress/chao-moi-nguoi/#respond</comments>
+		
+		<dc:creator><![CDATA[phanvoanhkiet]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2022 01:30:01 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://phanvoanhkiet.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanvoanhkiet.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
