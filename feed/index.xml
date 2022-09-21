@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phanvoanhkiet.github.io/mywordpress</link>
 	<description>Hello WordPress</description>
-	<lastBuildDate>Wed, 07 Sep 2022 03:53:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Sep 2022 03:14:01 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Mẫu Nhà</title>
+		<link>https://phanvoanhkiet.github.io/mywordpress/mau-nha/</link>
+					<comments>https://phanvoanhkiet.github.io/mywordpress/mau-nha/#respond</comments>
+		
+		<dc:creator><![CDATA[phanvoanhkiet]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2022 03:13:59 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://phanvoanhkiet.github.io/mywordpress/?p=210</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://phanvoanhkiet.github.io/mywordpress/mau-nha/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Elementor #38</title>
 		<link>https://phanvoanhkiet.github.io/mywordpress/elementor-38/</link>
 					<comments>https://phanvoanhkiet.github.io/mywordpress/elementor-38/#respond</comments>
