@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phanvoanhkiet.github.io/mywordpress</link>
 	<description>Hello WordPress</description>
-	<lastBuildDate>Wed, 21 Sep 2022 03:14:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Oct 2022 01:40:32 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,1032 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Đồ Án Cuối Kì</title>
+		<link>https://phanvoanhkiet.github.io/mywordpress/do-an-cuoi-ki/</link>
+					<comments>https://phanvoanhkiet.github.io/mywordpress/do-an-cuoi-ki/#respond</comments>
+		
+		<dc:creator><![CDATA[phanvoanhkiet]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 01:29:36 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://phanvoanhkiet.github.io/mywordpress/?p=231</guid>
+
+					<description><![CDATA[WISHLIST CART FALL WINTER 2021Our latest collection View MoreALWAYS ON TRENDVintage designView MoreBUSINESS CASUALChic daily styleView More Previous Next CUSTOMER FAVORITES Best selling products Spring bag SUMMER Add To Cart 70.98 Cool watch JEWELRY Add To Cart 109.87 Colorful slippers SUMMER Add To Cart 56.00   ASK US ANYTHING For more info Et harum quidem&#8230;&#160;<a href="https://phanvoanhkiet.github.io/mywordpress/do-an-cuoi-ki/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Đồ Án Cuối Kì</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="231" class="elementor elementor-231">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-25122ac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="25122ac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-879b282" data-id="879b282" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-88b43a5 elementor-nav-menu__align-justify elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="88b43a5" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://phanvoanhkiet.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-88b43a5" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://phanvoanhkiet.github.io/mywordpress/home-3/" class="elementor-item">Trang Chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://phanvoanhkiet.github.io/mywordpress/bai-viet/" class="elementor-item">Bài Viết</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-192"><a href="https://phanvoanhkiet.github.io/mywordpress/" class="elementor-item">Elementor</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399"><a href="https://phanvoanhkiet.github.io/mywordpress/cua-hang/" class="elementor-item">Cửa hàng</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-88b43a5" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://phanvoanhkiet.github.io/mywordpress/home-3/" class="elementor-item" tabindex="-1">Trang Chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://phanvoanhkiet.github.io/mywordpress/bai-viet/" class="elementor-item" tabindex="-1">Bài Viết</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-192"><a href="https://phanvoanhkiet.github.io/mywordpress/" class="elementor-item" tabindex="-1">Elementor</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399"><a href="https://phanvoanhkiet.github.io/mywordpress/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-96b1f2e" data-id="96b1f2e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-691140b elementor-widget elementor-widget-image" data-id="691140b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="330" height="96" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/logo_light.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-2ace287" data-id="2ace287" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7ac9d7a elementor-position-left elementor-widget__width-inherit elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="7ac9d7a" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://phanvoanhkiet.github.io/mywordpress/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="far fa-heart"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						WISHLIST					</span>
+				</h3>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f9f7c8e" data-id="f9f7c8e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3b5ebfa elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="3b5ebfa" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="far fa-paper-plane"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						CART					</span>
+				</h3>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-79a44b7" data-id="79a44b7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-301c95e hfe-search-layout-icon elementor-widget elementor-widget-hfe-search-button" data-id="301c95e" data-element_type="widget" data-settings="{&quot;input_icon_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:250,&quot;sizes&quot;:[]},&quot;input_icon_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;input_icon_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_icon_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;toggle_icon_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_icon_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="hfe-search-button.default">
+				<div class="elementor-widget-container">
+					<form class="hfe-search-button-wrapper" role="search" action="https://phanvoanhkiet.github.io/mywordpress" method="get">
+						<div class = "hfe-search-icon-toggle">
+				<input placeholder="" class="hfe-search-form__input" type="search" name="s" title="Search" value="">
+				<i class="fas fa-search" aria-hidden="true"></i>
+			</div>
+					</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-be8fff9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="be8fff9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2225ff2" data-id="2225ff2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ad7f16c elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="ad7f16c" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
+.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-3355ecc swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">FALL WINTER 2021</div><div class="elementor-slide-description">Our latest collection
+</div><div  class="elementor-button elementor-slide-button elementor-size-sm">View More</div></div></div></div><div class="elementor-repeater-item-1cbc990 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">ALWAYS ON TREND</div><div class="elementor-slide-description">Vintage design</div><div  class="elementor-button elementor-slide-button elementor-size-sm">View More</div></div></div></div><div class="elementor-repeater-item-42d70ed swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">BUSINESS CASUAL</div><div class="elementor-slide-description">Chic daily style</div><div  class="elementor-button elementor-slide-button elementor-size-sm">View More</div></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dbcba5f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dbcba5f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e70ac50" data-id="e70ac50" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5fe3632 elementor-widget elementor-widget-spacer" data-id="5fe3632" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-container{--container-widget-width:100%}.e-container>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));-ms-flex-item-align:stretch;align-self:stretch;-ms-flex-negative:0;flex-shrink:0}.e-container>.elementor-widget-spacer>.elementor-widget-container,.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5f86373 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f86373" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c15bfdc" data-id="c15bfdc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8040760 elementor-widget elementor-widget-heading" data-id="8040760" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">CUSTOMER FAVORITES<br>
+Best selling products</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-96fc9a3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="96fc9a3" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-container>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow,0)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f7a2bdd elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="f7a2bdd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7197292" data-id="7197292" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-40793b8 elementor-widget__width-auto elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="40793b8" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="231" height="300" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/variable-img-1-4.jpg" class="elementor-animation-buzz-out attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Spring bag</h3><p class="elementor-image-box-description">SUMMER </p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c393ac0 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="c393ac0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Add To Cart</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-dd6b997 elementor-list-item-link-inline elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="dd6b997" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://phanvoanhkiet.github.io/mywordpress/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-dollar-sign"></i>						</span>
+										<span class="elementor-icon-list-text">70.98</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-thumbtack"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-450bb13" data-id="450bb13" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-214a36a elementor-widget__width-auto elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="214a36a" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="231" height="300" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/variable-img-18.jpg" class="elementor-animation-buzz-out attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Cool watch </h3><p class="elementor-image-box-description">JEWELRY </p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7e544f9 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="7e544f9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Add To Cart</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-81f2ae0 elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="81f2ae0" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-dollar-sign"></i>						</span>
+										<span class="elementor-icon-list-text">109.87</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-thumbtack"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b697403" data-id="b697403" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8757e59 elementor-widget__width-auto elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8757e59" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="231" height="300" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/variable-img-13.jpg" class="elementor-animation-buzz-out attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Colorful slippers   </h3><p class="elementor-image-box-description">SUMMER</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-99b31ea elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="99b31ea" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Add To Cart</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0b3d5fd elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="0b3d5fd" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-dollar-sign"></i>						</span>
+										<span class="elementor-icon-list-text">56.00</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-thumbtack"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3ccd27b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3ccd27b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-71905be" data-id="71905be" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2b89e74 elementor-widget elementor-widget-spacer" data-id="2b89e74" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-81cbdfe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81cbdfe" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-33a1c92" data-id="33a1c92" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-80f8dc8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="80f8dc8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-47a9b2c" data-id="47a9b2c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0d2a494 elementor-widget elementor-widget-text-editor" data-id="0d2a494" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<div class="qodef-parallax-row-holder"><div class="qodef-parallax-img-holder"><div class="qodef-parallax-img-wrapper"> </div></div></div><div class="elementor-container elementor-column-gap-default"><div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-022fbfe" data-id="022fbfe" data-element_type="column"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-dea3e9d elementor-widget elementor-widget-esmee_core_section_title" data-id="dea3e9d" data-element_type="widget" data-widget_type="esmee_core_section_title.default"><div class="elementor-widget-container"><div class="qodef-shortcode qodef-m qodef-section-title qodef-alignment--left "><h6 class="qodef-m-subtitle">ASK US ANYTHING</h6><h2 class="qodef-m-title">For more info</h2><p class="qodef-m-text">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat.</p></div></div></div></div></div></div>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c9516d6 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="c9516d6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">View More</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f6d750a" data-id="f6d750a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6b9d4d9 elementor-widget__width-inherit elementor-widget elementor-widget-toggle" data-id="6b9d4d9" data-element_type="widget" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-toggle{text-align:left}.elementor-toggle .elementor-tab-title{font-weight:700;line-height:1;margin:0;padding:15px;border-bottom:1px solid #d4d4d4;cursor:pointer;outline:none}.elementor-toggle .elementor-tab-title .elementor-toggle-icon{display:inline-block;width:1em}.elementor-toggle .elementor-tab-title .elementor-toggle-icon svg{-webkit-margin-start:-5px;margin-inline-start:-5px;width:1em;height:1em}.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-right{float:right;text-align:right}.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left{float:left;text-align:left}.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-closed{display:block}.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-opened{display:none}.elementor-toggle .elementor-tab-title.elementor-active{border-bottom:none}.elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon-closed{display:none}.elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon-opened{display:block}.elementor-toggle .elementor-tab-content{padding:15px;border-bottom:1px solid #d4d4d4;display:none}@media (max-width:767px){.elementor-toggle .elementor-tab-title{padding:12px}.elementor-toggle .elementor-tab-content{padding:12px 10px}}.e-container>.elementor-widget-toggle{width:var(--container-widget-width,100%)}</style>		<div class="elementor-toggle" role="tablist">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1121" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-1121" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="far fa-plus-square"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Return policy</a>
+					</div>
+
+					<div id="elementor-tab-content-1121" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1121"><p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1122" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-1122" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="far fa-plus-square"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Faq</a>
+					</div>
+
+					<div id="elementor-tab-content-1122" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1122"><p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque </p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1123" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-1123" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="far fa-plus-square"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Customer support</a>
+					</div>
+
+					<div id="elementor-tab-content-1123" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1123"><p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobi</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1124" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-1124" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="far fa-plus-square"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Online options</a>
+					</div>
+
+					<div id="elementor-tab-content-1124" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1124"><p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque </p></div>
+				</div>
+								</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-138f239 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="138f239" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-81ef650" data-id="81ef650" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b17e4d3 elementor-widget elementor-widget-spacer" data-id="b17e4d3" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e4ebf10 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4ebf10" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bfa0ef6" data-id="bfa0ef6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d96db2a elementor-widget elementor-widget-text-editor" data-id="d96db2a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-element elementor-element-dca16b2 elementor-widget__width-inherit elementor-widget elementor-widget-esmee_core_section_title" data-id="dca16b2" data-element_type="widget" data-widget_type="esmee_core_section_title.default"><div class="elementor-widget-container"><div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left "><h6 class="qodef-m-subtitle">SUMMER COLLECTION</h6><h1 class="qodef-m-title">Simple elegance</h1></div></div></div><div class="elementor-element elementor-element-974f63b elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="974f63b" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta.</p></div></div>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4bfed1d elementor-cta--valign-middle elementor-bg-transform elementor-bg-transform-zoom-out elementor-widget__width-inherit elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="4bfed1d" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://phanvoanhkiet.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css">		<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/categories-4.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+								</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-362003b" data-id="362003b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c69e590 elementor-cta--valign-middle elementor-bg-transform elementor-bg-transform-zoom-out elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="c69e590" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/categories-5.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+								</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a141e74 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a141e74" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8fb0e6d" data-id="8fb0e6d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2f63a63 elementor-widget elementor-widget-spacer" data-id="2f63a63" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-48da1fe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="48da1fe" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-07a2b18" data-id="07a2b18" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-564b1c4 elementor-testimonial--skin-default elementor-testimonial--layout-image_inline elementor-testimonial--align-center elementor-arrows-yes elementor-pagination-type-bullets elementor-widget elementor-widget-testimonial-carousel" data-id="564b1c4" data-element_type="widget" data-settings="{&quot;show_arrows&quot;:&quot;yes&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="testimonial-carousel.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://phanvoanhkiet.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<b>"</b><br>
+GOLD COLLECTION <br>
+<b>Testimonials</b> <br>
+<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit <br>
+consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio <br>
+ sit amet nibh vulputate cursus a sit amet mauris. Morbi<br> accumsan ipsum velit. Ilus a odio tincidunt auctor a ornare.<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p>
+<br>
+<b>Ediwige Monette</b>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<b>"</b><br>
+GOLD COLLECTION <br>
+<b>Testimonials</b><br>
+<p>Cursus in hac habitasse platea dictumst. Eu augue ut lectus <br> arcu bibendum at. Euismod elementum nisi quis eleifend <br> quam adipiscing vitae proin sagittis. Purus semper eget duis <br>
+ at tellus. Commodo odio aenean sed adipiscing diam donec <br> adipiscing. Quam vulputate dignissim suspendis.</p><br>
+<br>
+<b>Gwynn Cadogan</b>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<b>"</b><br>
+SILVER COLLEECTION <br>
+<b>Testimonials</b><br>
+<p> Omnis voluptas assumenda est, omnis dolor repellendus.<br>
+Temporibus autem quibusdam et aut officiis debitis aut rerum <br>
+necessitatibus saepe eveniet ut et voluptates repudiandae sint <br>
+et molestiae non recusandae. Itaque earum rerumi. Aenean <br>
+sollicitudin, lorem quis bibendum autor, nisi</p><br>
+<br>
+<b>Kawano Kaori</b>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+									</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b0b1e09 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b0b1e09" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42cb0af" data-id="42cb0af" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-042565e elementor-widget elementor-widget-spacer" data-id="042565e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b1f70a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b1f70a8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fa48529" data-id="fa48529" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-1253377 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1253377" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ddf6e7f" data-id="ddf6e7f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4368315 elementor-widget elementor-widget-image" data-id="4368315" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="800" height="800" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/categories-1-1.jpg" class="elementor-animation-bounce-out attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9bb2d8a" data-id="9bb2d8a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d35abbe elementor-widget elementor-widget-image" data-id="d35abbe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="800" height="800" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/categories-2-1.jpg" class="elementor-animation-bounce-out attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-57a70bb" data-id="57a70bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7e00163 elementor-widget elementor-widget-image" data-id="7e00163" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="800" height="800" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/categories-3-1.jpg" class="elementor-animation-bounce-out attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a8db96b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a8db96b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9df3270" data-id="9df3270" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c84929a elementor-widget elementor-widget-spacer" data-id="c84929a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9e4f11f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9e4f11f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f3fddf4" data-id="f3fddf4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1d71700 elementor-widget elementor-widget-spacer" data-id="1d71700" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-549c7bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="549c7bb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-922901b" data-id="922901b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-be1216e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="be1216e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-6f4bf2f" data-id="6f4bf2f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-803cec1 elementor-widget__width-inherit elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="803cec1" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="100" height="56" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/icon-esmee-png-01.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Collections</h3><p class="elementor-image-box-description">Dolor ipsum lorem amet, conse ctetur</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-6e9b2f2" data-id="6e9b2f2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-81c776f elementor-widget__width-inherit elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="81c776f" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="100" height="56" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/icon-esmee-png-02.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Designers</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-242d2fa" data-id="242d2fa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c63410f elementor-widget__width-inherit elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="c63410f" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="100" height="56" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/icon-esmee-png-03.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Cotton</h3><p class="elementor-image-box-description">Lorem ipsum dolor amet, conse ctetur</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-8d9c211" data-id="8d9c211" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-abbc50f elementor-widget__width-inherit elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="abbc50f" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="100" height="56" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/icon-esmee-png-04.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Wool</h3><p class="elementor-image-box-description">Adipiscing vitae pro sagittiss nisle</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-1797746" data-id="1797746" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-08c3a88 elementor-widget__width-inherit elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="08c3a88" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="100" height="56" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/icon-esmee-png-06.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Jewellery</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-563db2b" data-id="563db2b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2989872 elementor-widget__width-inherit elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="2989872" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="100" height="56" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/icon-esmee-png-07.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Accessories</h3><p class="elementor-image-box-description">Piscing vitae pro sagittiss nisle empit</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d320e1d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d320e1d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-caaa093" data-id="caaa093" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-987042b elementor-widget elementor-widget-spacer" data-id="987042b" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-aff0299 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aff0299" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-69dd169" data-id="69dd169" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-767b5cb elementor-widget elementor-widget-text-editor" data-id="767b5cb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4>LOVE SHOPPING</h4><h1><strong>For Shopaholics</strong></h1><h4><span style="text-decoration: underline;"><strong>READ MORE</strong></span></h4>						</div>
+				</div>
+				<div class="elementor-element elementor-element-0441e07 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0441e07" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2b4c1a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2b4c1a1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5e58b05" data-id="5e58b05" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f460bd1 elementor-bg-transform elementor-bg-transform-zoom-out elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="f460bd1" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/h1-img-11.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">STYLE</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						<b> We Rank the 5 Best Perfumes For Women</b><br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem<br>
+<br>
+<u><b>READ MORE</b></u>					</div>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-489b3c4" data-id="489b3c4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-546442c elementor-bg-transform elementor-bg-transform-zoom-out elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="546442c" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/h1-img-12.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">STYLE</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						<b>Reviews Form Tokyo Fashion Week '21</b><br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do euismod tem<br>
+<br>
+<u><b>READ MORE</b></u>					</div>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fa0d390" data-id="fa0d390" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0380d21 elementor-bg-transform elementor-bg-transform-zoom-out elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="0380d21" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/h1-img-13.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">STYLE</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						<b>Just Figuring Out My Life....Wanna Come??</b><br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem<br>
+<br>
+<u><b>READ MORE</b></u>					</div>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-47df771 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="47df771" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-323a8d7" data-id="323a8d7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8d4ed0c elementor-widget__width-auto elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8d4ed0c" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="219" height="300" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/h1-img-11.jpg" class="elementor-animation-buzz-out attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">STYLE</h3><p class="elementor-image-box-description"><b> We Rank the 5 Best Perfumes For Women</b><br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem<br>
+<br>
+<u><b>READ MORE</b></u></p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9fe65f4 elementor-countdown--label-inline elementor-widget__width-auto elementor-widget elementor-widget-countdown" data-id="9fe65f4" data-element_type="widget" data-widget_type="countdown.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
+.elementor-widget-countdown .elementor-countdown-expire--message{display:none;padding:20px;text-align:center}.elementor-widget-countdown .elementor-countdown-wrapper{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-countdown .elementor-countdown-item{padding:20px 0;text-align:center;color:#fff}.elementor-widget-countdown .elementor-countdown-digits,.elementor-widget-countdown .elementor-countdown-label{line-height:1}.elementor-widget-countdown .elementor-countdown-digits{font-size:69px}.elementor-widget-countdown .elementor-countdown-label{font-size:19px}.elementor-widget-countdown.elementor-countdown--label-block .elementor-countdown-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin-right:auto;margin-left:auto}.elementor-widget-countdown.elementor-countdown--label-block .elementor-countdown-digits,.elementor-widget-countdown.elementor-countdown--label-block .elementor-countdown-label{display:block}.elementor-widget-countdown.elementor-countdown--label-block .elementor-countdown-item{-ms-flex-preferred-size:0;flex-basis:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.elementor-widget-countdown.elementor-countdown--label-inline{text-align:center}.elementor-widget-countdown.elementor-countdown--label-inline .elementor-countdown-item{display:inline-block;padding-left:5px;padding-right:5px}</style>		<div class="elementor-countdown-wrapper" data-date="1667620260">
+			<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-days"></span> <span class="elementor-countdown-label">Days</span></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ca982a4" data-id="ca982a4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4423526 elementor-widget__width-auto elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4423526" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="219" height="300" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/h1-img-12.jpg" class="elementor-animation-buzz-out attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">STYLE</h3><p class="elementor-image-box-description"><b>Reviews Form Tokyo Fashion Week '21</b><br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do euismod tem<br>
+<br>
+<u><b>READ MORE</b></u></p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d67a6a1 elementor-countdown--label-inline elementor-widget__width-auto elementor-widget elementor-widget-countdown" data-id="d67a6a1" data-element_type="widget" data-widget_type="countdown.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-countdown-wrapper" data-date="1667620260">
+			<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-days"></span> <span class="elementor-countdown-label">Days</span></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e23c2e3" data-id="e23c2e3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-89bde96 elementor-widget__width-auto elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="89bde96" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="219" height="300" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/h1-img-13.jpg" class="elementor-animation-buzz-out attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">STYLE</h3><p class="elementor-image-box-description"><b>Just Figuring Out My Life....Wanna Come??</b><br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem<br>
+<br>
+<u><b>READ MORE</b></u></p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9d85bf4 elementor-countdown--label-inline elementor-widget__width-auto elementor-widget elementor-widget-countdown" data-id="9d85bf4" data-element_type="widget" data-widget_type="countdown.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-countdown-wrapper" data-date="1667620260">
+			<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-days"></span> <span class="elementor-countdown-label">Days</span></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-12bf2fc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="12bf2fc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-eb7272d" data-id="eb7272d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-78d555b elementor-widget elementor-widget-spacer" data-id="78d555b" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c037f24 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c037f24" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9af7089" data-id="9af7089" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-c43d424 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c43d424" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-a66d166" data-id="a66d166" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dd09d63 elementor-widget elementor-widget-image" data-id="dd09d63" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="201" height="125" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/client-1.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-90f3073" data-id="90f3073" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-513ca46 elementor-widget elementor-widget-image" data-id="513ca46" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="201" height="125" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/client-2.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-00120c4" data-id="00120c4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-944606f elementor-widget elementor-widget-image" data-id="944606f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="201" height="125" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/client-3.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-bb3a58e" data-id="bb3a58e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2a78ae5 elementor-widget elementor-widget-image" data-id="2a78ae5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="201" height="125" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/client-4.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-0845054" data-id="0845054" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4a4dd5d elementor-widget elementor-widget-image" data-id="4a4dd5d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="201" height="125" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/client-5.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-39e4dc1" data-id="39e4dc1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d701ad2 elementor-widget elementor-widget-image" data-id="d701ad2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="201" height="125" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/client-6.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-013aa64 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="013aa64" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1c2184c" data-id="1c2184c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1b7d2a5 elementor-widget elementor-widget-spacer" data-id="1b7d2a5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f5b9823 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f5b9823" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-772ca26" data-id="772ca26" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-07a5705 elementor-widget elementor-widget-image" data-id="07a5705" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="330" height="96" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/logo_dark.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b1b3919 elementor-widget elementor-widget-text-editor" data-id="b1b3919" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div id="text-5" class="widget widget_text" data-area="qodef-footer-top-area-column-1"><div class="textwidget"><p>Esmée, a fashion theme especially desined for online clothing &amp; acessoriy stores.</p></div></div><div id="text-4" class="widget widget_text" data-area="qodef-footer-top-area-column-1"><div class="textwidget"><p><a href="tel:+402823559874">+ 40 282 355 9874</a></p></div></div>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4496426" data-id="4496426" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-19b2e65 elementor-widget elementor-widget-text-editor" data-id="19b2e65" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4 class="qodef-widget-title">Discover</h4><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-2752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2752"><a href="https://esmee.qodeinteractive.com/blog-right-sidebar/">Fashion News</a></li><li id="menu-item-2754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2754"><a href="https://esmee.qodeinteractive.com/shop-right-sidebar/">Latest products</a></li><li id="menu-item-2753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2753"><a href="https://esmee.qodeinteractive.com/cart/">Your cart</a></li><li id="menu-item-2756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2756"><a href="https://esmee.qodeinteractive.com/order-tracking/">Track And Trace</a></li><li id="menu-item-2757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2757"><a href="https://esmee.qodeinteractive.com/wishlist/">Wishlist</a></li></ul></div>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-993ccbf" data-id="993ccbf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-39fdac8 elementor-widget elementor-widget-text-editor" data-id="39fdac8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4 class="qodef-widget-title">Help &amp; Information</h4><div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-4120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4120"><a href="https://esmee.qodeinteractive.com/about-me/">How do I create</a></li><li id="menu-item-4121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4121"><a href="https://esmee.qodeinteractive.com/about-us/">About Store</a></li><li id="menu-item-4122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4122"><a href="https://esmee.qodeinteractive.com/contact-us/">Find us easy</a></li><li id="menu-item-4123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4123"><a href="https://esmee.qodeinteractive.com/faq-page/">FAQ</a></li></ul></div>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-8f66f1a" data-id="8f66f1a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b921788 elementor-widget elementor-widget-text-editor" data-id="b921788" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4 class="qodef-widget-title">Contact us</h4><div class="textwidget"><p>For any additional questions feel free to contact us here</p></div>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3dac675 elementor-button-align-end elementor-widget elementor-widget-form" data-id="3dac675" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
+.elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form__step{width:100%}.e-form__step:not(.elementor-hidden){display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}.e-form__buttons{-ms-flex-wrap:wrap;flex-wrap:wrap}.e-form__buttons,.e-form__buttons__wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.e-form__indicators{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-wrap:nowrap;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form__indicators,.e-form__indicators__indicator{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.e-form__indicators__indicator{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-ms-flex-preferred-size:0;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form__indicators__indicator__progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form__indicators__indicator__progress__meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;-webkit-transition:width .1s linear;-o-transition:width .1s linear;transition:width .1s linear}.e-form__indicators__indicator:first-child{padding-left:0}.e-form__indicators__indicator:last-child{padding-right:0}.e-form__indicators__indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-inactive [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form__indicators__indicator--state-inactive object,.e-form__indicators__indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active object,.e-form__indicators__indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator--state-completed [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator__label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form__indicators__indicator--state-completed object,.e-form__indicators__indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator__icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form__indicators__indicator__icon img,.e-form__indicators__indicator__icon object,.e-form__indicators__indicator__icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form__indicators__indicator__icon .e-font-icon-svg{height:1em}.e-form__indicators__indicator__number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-bottom:10px}.e-form__indicators__indicator--shape-circle{border-radius:50%}.e-form__indicators__indicator--shape-square{border-radius:0}.e-form__indicators__indicator--shape-rounded{border-radius:5px}.e-form__indicators__indicator--shape-none{border:0}.e-form__indicators__indicator__label{text-align:center}.e-form__indicators__indicator__separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#c2cbd2}.e-form__indicators--type-icon,.e-form__indicators--type-icon_text,.e-form__indicators--type-number,.e-form__indicators--type-number_text{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.e-form__indicators--type-icon .e-form__indicators__indicator__separator,.e-form__indicators--type-icon_text .e-form__indicators__indicator__separator,.e-form__indicators--type-number .e-form__indicators__indicator__separator,.e-form__indicators--type-number_text .e-form__indicators__indicator__separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}.elementor-form .elementor-button>span{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}</style>		<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="231"/>
+			<input type="hidden" name="form_id" value="3dac675"/>
+			<input type="hidden" name="referer_title" value="" />
+
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
+								Email							</label>
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">
+											</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class="elementor-align-icon-left elementor-button-icon">
+									<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.8px" height="6.2px" viewBox="0 0 10.8 6.2" style="enable-background:new 0 0 10.8 6.2;" xml:space="preserve"><path style="fill: #A8A7A7" d="M10.6,0.3c0.3,0.3,0.3,0.7,0,1L5.9,5.9C5.8,6.1,5.6,6.2,5.4,6.2C5.2,6.2,5,6.1,4.9,5.9L0.2,1.3 c-0.3-0.3-0.3-0.7,0-1c0.3-0.3,0.7-0.3,1,0l4.2,4.1l4.2-4.1C9.9-0.1,10.2-0.1,10.6,0.3z"></path></svg>																			<span class="elementor-screen-only">Submit</span>
+																	</span>
+																				</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2d3316d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d3316d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f1b9261" data-id="f1b9261" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2b1ab4e elementor-widget elementor-widget-spacer" data-id="2b1ab4e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f9dbd22 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f9dbd22" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-df7f761" data-id="df7f761" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e8464c9 elementor-widget elementor-widget-text-editor" data-id="e8464c9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><em><strong>© 2021 <a href="https://qodeinteractive.com/" target="_blank" rel="noopener">Qode Interactive</a>, All Rights Reserved</strong></em></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://phanvoanhkiet.github.io/mywordpress/do-an-cuoi-ki/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Mẫu Nhà</title>
 		<link>https://phanvoanhkiet.github.io/mywordpress/mau-nha/</link>
 					<comments>https://phanvoanhkiet.github.io/mywordpress/mau-nha/#respond</comments>
@@ -55,12 +1081,11 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a762143 elementor-widget elementor-widget-image" data-id="a762143" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="275" height="183" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-1.jpg" class="attachment-medium size-medium" alt="" loading="lazy" />															</div>
+															<img src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-1.jpg" title="" alt="" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-67bbb2e elementor-widget elementor-widget-image" data-id="67bbb2e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="150" height="91" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-2.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-2.jpg" title="" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -69,9 +1094,15 @@
 								<div class="elementor-element elementor-element-2962b39 elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel" data-id="2962b39" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style><br />
+<b>Warning</b>:  Attempt to read property "post_excerpt" on null in <b>D:\HK4\CMS\htdocs\myproject\wordpress\wp-content\plugins\elementor\includes\widgets\image-carousel.php</b> on line <b>999</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_excerpt" on null in <b>D:\HK4\CMS\htdocs\myproject\wordpress\wp-content\plugins\elementor\includes\widgets\image-carousel.php</b> on line <b>999</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_excerpt" on null in <b>D:\HK4\CMS\htdocs\myproject\wordpress\wp-content\plugins\elementor\includes\widgets\image-carousel.php</b> on line <b>999</b><br />
+		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/tai-xuong-4.jpg" alt="Nhà trên thảo nguyên" /><figcaption class="elementor-image-carousel-caption">Nhà trên thảo nguyên</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-1.jpg" alt="Nhà ở đồng bằng" /><figcaption class="elementor-image-carousel-caption">Nhà ở đồng bằng</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-3.jpg" alt="Nhà ở biển" /><figcaption class="elementor-image-carousel-caption">Nhà ở biển</figcaption></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/tai-xuong-4.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-1.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/09/images-3.jpg" alt="" /></figure></div>			</div>
 																<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
 					</div>
@@ -87,8 +1118,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7b2bc11 elementor-widget elementor-widget-heading" data-id="7b2bc11" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Nhà</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Nhà</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-d9c9808 elementor-widget elementor-widget-heading" data-id="d9c9808" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -96,8 +1126,7 @@
 				</div>
 				<div class="elementor-element elementor-element-6610380 elementor-widget elementor-widget-text-editor" data-id="6610380" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><em><strong>Trang web luôn cập nhật những mẫu nhà được ưa chuộng nhất 2022</strong></em></p>						</div>
+							<p><em><strong>Trang web luôn cập nhật những mẫu nhà được ưa chuộng nhất 2022</strong></em></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-de19d09 elementor-widget elementor-widget-button" data-id="de19d09" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">

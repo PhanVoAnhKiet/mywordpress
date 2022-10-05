@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TIMELESS &#8211; phanvoanhkiet</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/timeless/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phanvoanhkiet.github.io/mywordpress</link>
+	<description>Hello WordPress</description>
+	<lastBuildDate>Wed, 05 Oct 2022 03:39:49 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Gold Jewelry</title>
+		<link>https://phanvoanhkiet.github.io/mywordpress/san-pham/gold-jewelry/</link>
+					<comments>https://phanvoanhkiet.github.io/mywordpress/san-pham/gold-jewelry/#respond</comments>
+		
+		<dc:creator><![CDATA[phanvoanhkiet]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:38:45 +0000</pubDate>
+				<guid isPermaLink="false">https://phanvoanhkiet.github.io/mywordpress/?post_type=product&#038;p=400</guid>
+
+					<description><![CDATA[Integer vel turpis et est ultrices rhoncus. Proin eu euismod nisi. Nulla ultrices placerat aliquam. Fusce ac sapien dolor. Curabitur auctor. Nam magna mi, consectetur vel lorem non.]]></description>
+										<content:encoded><![CDATA[<p>Donec quis enim vel urna tristique pulvinar. Curabitur a facilisis est. Sed mollis odio in felis tristique luctus. Nam magna mi, consectetur vel lorem non, porttitor hendrerit nunc. Aliquam erat volutpat. Cras varius elit vitae pulvinar euismod. Phasellus sagittis urna sed elit ultrices tempus. Ut ac tellus ac mi condimentum pretium. Nam vestibulum hendrerit lorem nec tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse erat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanvoanhkiet.github.io/mywordpress/san-pham/gold-jewelry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Slippers</title>
+		<link>https://phanvoanhkiet.github.io/mywordpress/san-pham/slippers/</link>
+					<comments>https://phanvoanhkiet.github.io/mywordpress/san-pham/slippers/#respond</comments>
+		
+		<dc:creator><![CDATA[phanvoanhkiet]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 02:30:42 +0000</pubDate>
+				<guid isPermaLink="false">https://phanvoanhkiet.github.io/mywordpress/?post_type=product&#038;p=364</guid>
+
+					<description><![CDATA[Integer vel turpis et est ultrices rhoncus. Proin eu euismod nisi. Nulla ultrices placerat aliquam. Fusce ac sapien dolor. Curabitur auctor. Nam magna mi, consectetur vel lorem non, porttitor hendrerit]]></description>
+										<content:encoded><![CDATA[<p>Donec quis enim vel urna tristique pulvinar. Curabitur a facilisis est. Sed mollis odio in felis tristique luctus. Nam magna mi, consectetur vel lorem non, porttitor hendrerit nunc. Aliquam erat volutpat. Cras varius elit vitae pulvinar euismod. Phasellus sagittis urna sed elit ultrices tempus. Ut ac tellus ac mi condimentum pretium. Nam vestibulum hendrerit lorem nec tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse erat mi, faucibus at congue nec, scelerisque id nibh. Aenean dolor odio, vestibulum in accumsan dignissim, interdum vel turpis. Etiam in lorem quis ipsum</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phanvoanhkiet.github.io/mywordpress/san-pham/slippers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

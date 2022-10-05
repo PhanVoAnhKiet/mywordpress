@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/categories-4.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/categories-4.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/categories-4.jpg">https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/categories-4.jpg</a></p>
+	</body>
+</html>
