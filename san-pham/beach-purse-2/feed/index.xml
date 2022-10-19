@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/beach-purse-2/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phanvoanhkiet.github.io/mywordpress/san-pham/beach-purse-2/</link>
 	<description>Hello WordPress</description>
-	<lastBuildDate>Wed, 05 Oct 2022 03:25:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Oct 2022 03:28:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
