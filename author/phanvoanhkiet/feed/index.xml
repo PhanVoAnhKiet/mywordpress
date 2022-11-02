@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Top 11 thời trang túi xách ELLY</title>
 		<link>https://phanvoanhkiet.github.io/mywordpress/thoi-trang-tui-xach-elly/</link>
@@ -49,14 +49,14 @@
 
 <figure>
 
-<figure><img data-id="592"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/111111111.jpg" alt=""/><figcaption>Cup &#8211; Giấy chứng nhận</figcaption></figure>
+<figure><img decoding="async" data-id="592"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/111111111.jpg" alt=""/><figcaption>Cup &#8211; Giấy chứng nhận</figcaption></figure>
 
 </figure>
 
 
 
-<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure><img data-id="593"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/46-768x512-1.jpg" alt=""/><figcaption>Lễ trao giải</figcaption></figure>
+<figure class="is-layout-flex wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure><img decoding="async" data-id="593"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/46-768x512-1.jpg" alt=""/><figcaption>Lễ trao giải</figcaption></figure>
 </figure>
 
 
@@ -65,7 +65,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="848" height="315" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/banner-gioi-thieu.jpg" alt="" class="wp-image-594"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="848" height="315" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/banner-gioi-thieu.jpg" alt="" class="wp-image-594"/></figure>
 
 
 
@@ -77,8 +77,8 @@
 
 
 
-<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img loading="lazy" width="300" height="600" data-id="595"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/anh-megamenu.jpg" alt="Thời trang túi xách ELLY" class="wp-image-595"/></figure>
+<figure class="is-layout-flex wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="300" height="600" data-id="595"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/anh-megamenu.jpg" alt="Thời trang túi xách ELLY" class="wp-image-595"/></figure>
 </figure>
 
 
@@ -93,7 +93,7 @@
 
 <figure>
 
-<figure><img data-id="596"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/61fb15d14fe0.jpg" alt=""/></figure>
+<figure><img decoding="async" data-id="596"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/61fb15d14fe0.jpg" alt=""/></figure>
 
 </figure>
 
@@ -109,7 +109,7 @@
 
 <figure>
 
-<figure><img data-id="597"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/Screenshot_2.png" alt=""/></figure>
+<figure><img decoding="async" data-id="597"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/Screenshot_2.png" alt=""/></figure>
 
 </figure>
 
@@ -143,7 +143,7 @@
 
 
 
-<figure><img src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/vnexpress.png" alt=""/><figcaption>Đơn vị vận chuyển</figcaption></figure>
+<figure><img decoding="async" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/vnexpress.png" alt=""/><figcaption>Đơn vị vận chuyển</figcaption></figure>
 
 
 
@@ -157,7 +157,7 @@
 
 <figure>
 
-<figure><img data-id="599"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/sr5-1.jpg" alt=""/><figcaption>Hệ thống cửa hàng ELLY</figcaption></figure>
+<figure><img decoding="async" data-id="599"  src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/sr5-1.jpg" alt=""/><figcaption>Hệ thống cửa hàng ELLY</figcaption></figure>
 
 </figure>
 
@@ -179,7 +179,7 @@
 
 
 
-<figure><img src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/848x315.jpg" alt=""/></figure>
+<figure><img decoding="async" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/848x315.jpg" alt=""/></figure>
 
 
 
@@ -191,7 +191,7 @@
 
 
 
-<figure><img src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/ly-do-nhung-chiec-tui-xach-hang-hieu-luon-duoc-nguoi-Viet-ua-chuong.2.jpg" alt=""/></figure>
+<figure><img decoding="async" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/ly-do-nhung-chiec-tui-xach-hang-hieu-luon-duoc-nguoi-Viet-ua-chuong.2.jpg" alt=""/></figure>
 
 
 
@@ -207,7 +207,7 @@
 
 
 
-<figure><img src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/ly-do-nhung-chiec-tui-xach-hang-hieu-luon-duoc-nguoi-Viet-ua-chuong.3.jpg" alt=""/></figure>
+<figure><img decoding="async" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/ly-do-nhung-chiec-tui-xach-hang-hieu-luon-duoc-nguoi-Viet-ua-chuong.3.jpg" alt=""/></figure>
 
 
 
@@ -215,7 +215,7 @@
 
 
 
-<figure><img src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/ly-do-nhung-chiec-tui-xach-hang-hieu-luon-duoc-nguoi-Viet-ua-chuong.5.jpg" alt=""/></figure>
+<figure><img decoding="async" src="https://phanvoanhkiet.github.io/mywordpress/wp-content/uploads/2022/10/ly-do-nhung-chiec-tui-xach-hang-hieu-luon-duoc-nguoi-Viet-ua-chuong.5.jpg" alt=""/></figure>
 
 
 
